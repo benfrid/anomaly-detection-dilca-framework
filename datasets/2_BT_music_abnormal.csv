@@ -1,0 +1,323 @@
+Message type,Paths,Methods,Parameters
+C,Mediaplayer,InitMediaPlayback,None
+S,Mediaplayer,MediaPlayerDeviceConnectionsUpdate,dev_name true
+C,HbNotificationAppServer,SendLinuxBufferUpdate,None
+S,Mediaplayer,MediaPlayerDeviceConnectionsUpdateHb,None
+S,HbNotificationServer,LinuxBufferUpdated,None
+R,HbNotificationAppServer,SendLinuxBufferUpdate,None
+S,hdac am,newRoute,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseSystemProperty,None
+R,Mediaplayer,InitMediaPlayback,None
+S,Mediaplayer,DBus Properties PropertiesChanged,NowPlayingInfo
+R,hdac am,responseMute,TRUE
+S,hdac am,updateRoute,None
+S,hdac am,sourceNotificationChanged,None
+S,Mediaplayer,MediaPlayerDeviceConnectionsUpdate,dev_name true
+C,HbNotificationAppServer,SendLinuxBufferUpdate,None
+S,HbNotificationServer,LinuxBufferUpdated,None
+R,HbNotificationAppServer,SendLinuxBufferUpdate,None
+S,Mediaplayer,MediaPlayerDeviceConnectionsUpdateHb,None
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackMode
+S,hdac am,LinuxBufferUpdated,RepeatMode
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,NowPlayingInfo track_name
+S,Mediaplayer,DBus Properties PropertiesChanged,RepeatMode
+S,Mediaplayer,MediaPlayerDeviceConnectionsUpdate,dev_name true
+C,HbNotificationAppServer,SendLinuxBufferUpdate,None
+S,HbNotificationServer,LinuxBufferUpdated,None
+R,HbNotificationAppServer,SendLinuxBufferUpdate,None
+S,Mediaplayer,MediaPlayerDeviceConnectionsUpdateHb,None
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackMode
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseMute,TRUE
+S,hdac am,responseVolume,None
+S,hdac am,responseMute,FALSE
+S,hdac am,sourceNotificationChanged,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseVolume,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,hdac am,DBus Properties PropertiesChanged,PlaybackState
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackState
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackState
+S,hdac am,newRoute,None
+S,hdac am,updateRoute,None
+S,hdac am,responseMute,FALSE
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackState
+E,Mediaplayer,DBus Properties PropertiesChanged,Playback fail
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,hdac am,updateRoute,None
+S,hdac am,responseVolume,None
+S,hdac am,updateRoute,None
+S,hdac am,updateRoute,None
+S,hdac am,responseVolume,None
+S,hdac am,updateRoute,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackState
+S,hdac am,updateRoute,None
+S,Mediaplayer,DBus Properties PropertiesChanged,PlaybackState
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,hdac am,updateRoute,None
+S,hdac am,responseVolume,None
+S,hdac am,updateRoute,None
+S,hdac am,updateRoute,None
+S,hdac am,responseVolume,None
+S,hdac am,updateRoute,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseVolume,None
+S,hdac am,responseVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+E,hdac am,sinkNotificationChanged,FALSE
+S,hdac am,responseVolume,None
+S,hdac am,responseVolume,None
+S,hdac am,sinkNotificationChanged,None
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseVolume,None
+S,hdac am,responseVolume,None
+S,hdac am,sinkNotificationChanged,None
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,hdac am,responseVolume,None
+S,hdac am,responseVolume,None
+S,hdac am,sinkNotificationChanged,None
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseVolume,None
+S,hdac am,responseVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+C,hdac am,setVolume,None
+R,hdac am,setVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseVolume,None
+S,hdac am,sinkNotificationChanged,None
+S,hdac am,responseVolume,None
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
+S,Mediaplayer,DBus Properties PropertiesChanged,Playtime
