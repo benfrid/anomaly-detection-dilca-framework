@@ -1,4 +1,4 @@
-# <"Anomaly detection from categorical data in a distributed log dataset">
+# Anomaly detection from categorical data in a distributed log dataset
 This repository contains scripts to a semi-supervised anomaly detection framework
 
 ## Description
